@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPortal", "LoginPortal\LoginPortal.csproj", "{F044BC44-B772-4780-900E-0BCD72CFF577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{B4103822-EE28-45CF-B04D-CD45029C7778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F044BC44-B772-4780-900E-0BCD72CFF577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F044BC44-B772-4780-900E-0BCD72CFF577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F044BC44-B772-4780-900E-0BCD72CFF577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F044BC44-B772-4780-900E-0BCD72CFF577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4103822-EE28-45CF-B04D-CD45029C7778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4103822-EE28-45CF-B04D-CD45029C7778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4103822-EE28-45CF-B04D-CD45029C7778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4103822-EE28-45CF-B04D-CD45029C7778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A617D9F-82BA-456E-B4C0-6FBFD34AEB13}
+	EndGlobalSection
+EndGlobal
